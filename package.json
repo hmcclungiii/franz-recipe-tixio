@@ -6,7 +6,7 @@
     "keywords": ["franz", "tixio", "plugin", "recipe", "hmcclungiii"],
     "author": "Houston McClung (hmcclungiii) <hmcclungiii@gmail.com>",
     "main": "index.js",
-    "license": "GPL-3.0",
+    "license": "MIT",
     "repository": "https://github.com/hmcclungiii/recipe-tixio",
     "homepage": "https://github.com/hmcclungiii/recipe-tixio#README.md",
     "bugs": {
